@@ -1,0 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #ffffff;
+    font-display: pink
+
+}
+button {
+    padding: 10px 20px;
+    font-size: 10px;
+    cursor: pointer;
+
+}
